@@ -1,4 +1,4 @@
-const speed = 100;
+const speed = 10;
 
 class Verifier {
     constructor(x, y) {
